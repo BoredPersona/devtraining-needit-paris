@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Tabulka</name>
+        <order>100</order>
+        <roles>x_58872_needit.tabulka_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-01 16:55:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>22c6d84a07f020107ba3f19d7c1ed0fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tabulka</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_application_22c6d84a07f020107ba3f19d7c1ed0fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-01 16:55:16</sys_updated_on>
+        <title>Tabulka</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>7c9bd90fdb8efbc8b847ac44d4961946</instance_id>
+        <instance_name>dev88134</instance_name>
+        <name>sys_app_application_22c6d84a07f020107ba3f19d7c1ed0fc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>Tabulka</name><order>100</order><roles>x_58872_needit.tabulka_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-01 16:55:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>22c6d84a07f020107ba3f19d7c1ed0fc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Tabulka</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_application_22c6d84a07f020107ba3f19d7c1ed0fc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-01 16:55:16</sys_updated_on><title>Tabulka</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-832275136</payload_hash>
+        <record_name>Tabulka</record_name>
+        <reverted_from/>
+        <source>1bdf880607f020107ba3f19d7c1ed09a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-01 16:55:16</sys_created_on>
+        <sys_id>aec6d84a07f020107ba3f19d7c1ed0ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1761f3acfd70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-01 16:55:16</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>e6c6d84ab4f020104f7d0497f709dbff</update_guid>
+        <update_guid_history>e6c6d84ab4f020104f7d0497f709dbff:-832275136</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Tabulka">add187c4074120107ba3f19d7c1ed0bc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-08 10:30:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>0caeca0d38bd4840811b73e4bfba2400</sys_id>
+        <sys_metadata>22c6d84a07f020107ba3f19d7c1ed0fc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tabulka</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_app_application_22c6d84a07f020107ba3f19d7c1ed0fc</sys_update_name>
+        <sys_update_version display_value="sys_app_application_22c6d84a07f020107ba3f19d7c1ed0fc">aec6d84a07f020107ba3f19d7c1ed0ff</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-08 10:30:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
